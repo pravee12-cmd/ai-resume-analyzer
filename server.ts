@@ -3282,11 +3282,47 @@ For each role, provide futureJobTitle, horizon, readinessScore (number 50-98), s
       appType: 'spa',
     });
     app.use(vite.middlewares);
-  } else {
+    } else {
     const distPath = path.join(process.cwd(), 'dist');
+    // Serve static files from both dist/ and project root
     app.use(express.static(distPath));
+    app.use(express.static(process.cwd()));
+
+    // Explicitly deliver frontend JavaScript bundle and CSS styles
+    app.get('/app.bundle.js', (_req, res) => {
+      const rootBundle = path.join(process.cwd(), 'app.bundle.js');
+      const distBundle = path.join(distPath, 'app.bundle.js');
+      if (fs.existsSync(rootBundle)) {
+        res.setHeader('Content-Type', 'application/javascript');
+        return res.sendFile(rootBundle);
+      }
+      if (fs.existsSync(distBundle)) {
+        res.setHeader('Content-Type', 'application/javascript');
+        return res.sendFile(distBundle);
+      }
+      res.status(404).send('Bundle not found');
+    });
+
+    app.get('/styles.css', (_req, res) => {
+      const rootCss = path.join(process.cwd(), 'styles.css');
+      const distCss = path.join(distPath, 'styles.css');
+      if (fs.existsSync(rootCss)) {
+        res.setHeader('Content-Type', 'text/css');
+        return res.sendFile(rootCss);
+      }
+      if (fs.existsSync(distCss)) {
+        res.setHeader('Content-Type', 'text/css');
+        return res.sendFile(distCss);
+      }
+      res.status(404).send('CSS not found');
+    });
+
     app.get('*', (_req, res) => {
-      res.sendFile(path.join(distPath, 'index.html'));
+      const distIndex = path.join(distPath, 'index.html');
+      const rootIndex = path.join(process.cwd(), 'index.html');
+      if (fs.existsSync(distIndex)) return res.sendFile(distIndex);
+      if (fs.existsSync(rootIndex)) return res.sendFile(rootIndex);
+      res.status(404).send('Index not found');
     });
   }
 
