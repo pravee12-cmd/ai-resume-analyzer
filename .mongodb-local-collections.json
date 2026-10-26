@@ -1,0 +1,1210 @@
+{
+  "dbName": "resumetric_ai",
+  "updatedAt": "2026-10-26T17:28:34.412Z",
+  "collections": {
+    "users": [
+      {
+        "id": "usr_31485f50",
+        "name": "Rithik",
+        "email": "rithik@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "passwordHash": "34db8f7d3a83479fbdb0c6c48d39d1137c9150df76a0845716d30cc00ec72f72ca9ce62c7683190dd8ba24ca1cf60993b3cd21e469d5b69f3b333ddf49fc2741",
+        "salt": "5168554214fe546d9ec176bd50b060fd",
+        "passwordUpdatedByUser": true,
+        "role": "Verified Candidate",
+        "createdAt": "2026-10-10T22:29:23.188Z",
+        "lastActive": "2026-10-10T22:32:28.847Z"
+      },
+      {
+        "id": "usr_251d2b00",
+        "name": "Bintu",
+        "email": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "passwordHash": "3991e7cffeb62311624e014a3331451c06cd9d9ebe3b71c595b53c7ba62ddfa49cdda7d0fc5a16d1244fc0e42a8b051b68d9e733dc21c367d9e97f7f6e0a9f66",
+        "salt": "056a33035eeeec8ab8d80adddb29469f",
+        "passwordUpdatedByUser": true,
+        "role": "Verified Candidate",
+        "createdAt": "2026-10-10T22:27:53.250Z",
+        "lastActive": "2026-10-10T22:28:58.660Z"
+      },
+      {
+        "id": "usr_139e0e5b",
+        "name": "divs",
+        "email": "divs123@gmail.com",
+        "contactNumber": "1234567890",
+        "passwordHash": "e177802f5c8655f1c9692f0de88bfa3ca5927f1c4c27a906314303ed6d3484ac219e99574d450b7abcec105b818a20a57f7fc01fb7273bbcae2929bb59425911",
+        "salt": "e57a5a1ad32d6d6e0f1add31c12fbca3",
+        "passwordUpdatedByUser": true,
+        "role": "Registered Candidate",
+        "createdAt": "2026-10-10T21:55:03.164Z",
+        "lastActive": "2026-10-10T21:55:29.986Z"
+      },
+      {
+        "id": "usr_95eb206a",
+        "name": "divyamurthy",
+        "email": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "passwordHash": "d4ea7901ee6def456ab83aac2140b83cede05bf1f71589dd07d887b87fe91482088ec2f394a3caf59b851ebaadea6c25199955a304e2855c323e1788eea59687",
+        "salt": "81aaaf6c8172dd8634e4d82dc10ec95f",
+        "role": "Registered Candidate",
+        "createdAt": "2026-10-10T20:58:01.126Z",
+        "lastActive": "2026-10-10T21:36:45.552Z"
+      },
+      {
+        "id": "usr_c2e2879d",
+        "name": "Bintu",
+        "email": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "passwordHash": "4139f2e0f670e847fff6683a0b1d195bda29b5b6e0e691fb3efbe37d3a0b5e86ef6563f68fa5b93878897e09d20aa396874b5dad1d94b6f0b333f31be3fc44b9",
+        "salt": "8b7cab8b076a8a6860583c62dedafe2a",
+        "role": "Senior Full-Stack Candidate",
+        "createdAt": "2026-10-10T18:06:05.430Z",
+        "lastActive": "2026-10-10T22:28:58.571Z"
+      },
+      {
+        "id": "usr_b5bd10d3",
+        "name": "Divya Sharma",
+        "email": "divya@gmail.com",
+        "contactNumber": "+91 9845012345",
+        "passwordHash": "5e606be27a017302771dbab4372861b1aed556fd3b90d46bcd424ef87492cd9d261d1598f356cde701b3997b25aecb544c24cd122172270995b66fdc01b2690b",
+        "salt": "0cb73cc187236c61732915f1d727eee6",
+        "role": "Mid-Level SWE Candidate",
+        "createdAt": "2026-10-10T18:06:05.432Z",
+        "lastActive": "2026-10-10T18:37:45.983Z"
+      },
+      {
+        "id": "usr_50bb3ccb",
+        "name": "Elena Rostova",
+        "email": "elena.rostova@gmail.com",
+        "contactNumber": "+1 4158904321",
+        "passwordHash": "96e73d191c92928ad926a77463149671069418784b8b9194ac2d354b9ae30a295c9b95babe9eaadc4b6349257e33060794bc0ded2551ac0ae094d9027d8454ac",
+        "salt": "1451c4b43e89019d9ad7c60903ebeaa9",
+        "role": "Staff Architect Candidate",
+        "createdAt": "2026-10-10T18:06:05.433Z",
+        "lastActive": "2026-10-10T18:13:21.038Z"
+      },
+      {
+        "id": "usr_ab60e9e6",
+        "name": "Alex Rivera",
+        "email": "alex.rivera@gmail.com",
+        "contactNumber": "+1 6504329876",
+        "passwordHash": "ac82abe542c6cb3bef763a1d90943358f943214e78b874476d619ef3bd8835bd394e64045aff0b9e98885f2a93e15cd284453f97fdce11ba0358c35c3be6bd00",
+        "salt": "f1170bb977934faac3a2f7fbbbaadcee",
+        "role": "Junior Developer Candidate",
+        "createdAt": "2026-10-10T18:06:05.433Z",
+        "lastActive": "2026-10-10T18:22:44.803Z"
+      }
+    ],
+    "analysis_history": [
+      {
+        "id": "anl_56ba5345",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "candidatePhone": "1234567789",
+        "fileName": "divyamurthy_basic_resume.pdf",
+        "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+        "score": 34,
+        "matchPercentage": 18,
+        "skillsDetected": [
+          "HTML5",
+          "CSS3",
+          "Git"
+        ],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "AWS / Cloud"
+        ],
+        "strengths": [
+          "Parsed 3 foundational skills (HTML5, CSS3, Git) from divyamurthy_basic_resume.pdf",
+          "Clean single-column document layout readable by baseline ATS parsers",
+          "Clear contact header and academic foundation"
+        ],
+        "formatVerified": false,
+        "timestamp": "2026-10-10T21:37:02.543Z",
+        "fullAnalysis": {
+          "id": "anl_56ba5345",
+          "fileName": "divyamurthy_basic_resume.pdf",
+          "candidateName": "divyamurthy",
+          "candidateEmail": "divyamurthy050106@gmail.com",
+          "candidatePhone": "1234567789",
+          "greeting": "Showing live evaluation for divyamurthy_basic_resume.pdf (34/100)",
+          "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+          "score": 34,
+          "scoreStatus": "Needs Improvement",
+          "scoreStatusColor": "bg-error/15 text-error",
+          "scoreIcon": "error",
+          "gaugeStrokeColor": "#ba1a1a",
+          "summaryText": "Basic or entry-level resume detected (divyamurthy_basic_resume.pdf). Missing core production stack depth, quantified metrics, and key skills required for Senior Full-Stack Engineer (React, Node, Cloud).",
+          "formatVerified": false,
+          "formatStatusText": "Basic structure warning: Sparse sections & low keyword density in divyamurthy_basic_resume.pdf",
+          "percentileText": "Bottom 35% of applicants",
+          "matchPercentage": 18,
+          "matchCircleColor": "#ba1a1a",
+          "matchedCount": 0,
+          "missingCount": 8,
+          "totalReqCount": 8,
+          "skillsDetected": [
+            "HTML5",
+            "CSS3",
+            "Git"
+          ],
+          "missingSkills": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "AWS / Cloud"
+          ],
+          "strengths": [
+            "Parsed 3 foundational skills (HTML5, CSS3, Git) from divyamurthy_basic_resume.pdf",
+            "Clean single-column document layout readable by baseline ATS parsers",
+            "Clear contact header and academic foundation"
+          ],
+          "education": [
+            {
+              "degree": "B.S. / B.Tech in Information Technology (Entry Level)",
+              "institution": "University / Technical Institute",
+              "year": "2025",
+              "gpa": "3.2 / 4.0"
+            }
+          ],
+          "experience": [
+            {
+              "title": "Junior / Academic Trainee",
+              "company": "Extracted from divyamurthy_basic_resume.pdf",
+              "duration": "2024 (Internship / Coursework)",
+              "impact": "Built basic static web interfaces and assisted with introductory coding tasks; lacks quantified production metrics."
+            }
+          ],
+          "projects": [
+            {
+              "name": "Basic Web / Academic Starter Project",
+              "stack": "HTML5, CSS3, Git",
+              "outcome": "Demonstrates baseline syntax and layout fundamentals; needs backend API and database integration."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "Foundational Programming & Web Development Certificate",
+              "issuer": "Online Technical Academy",
+              "year": "2024"
+            }
+          ],
+          "showCriticalWarning": true,
+          "criticalWarningText": "Low Resume Score (34/100) for \"divyamurthy_basic_resume.pdf\": Your uploaded resume is missing 8 core requirements (JavaScript, TypeScript, React, Node.js) for Senior Full-Stack Engineer (React, Node, Cloud). Add quantified project metrics and backend/cloud skills to pass ATS screening.",
+          "remediationTip": "Adding JavaScript and TypeScript to \"divyamurthy_basic_resume.pdf\" will boost your Resume Score from 34 to 52.",
+          "actionBtnText": "Fix Missing Skills in Job Matcher"
+        }
+      },
+      {
+        "id": "anl_966fc9af",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "candidatePhone": "1234567789",
+        "fileName": "sample_resume-1.pdf",
+        "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+        "score": 61,
+        "matchPercentage": 38,
+        "skillsDetected": [
+          "JavaScript",
+          "TypeScript",
+          "Git",
+          "Machine Learning"
+        ],
+        "missingSkills": [
+          "React",
+          "Node.js",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "AWS / Cloud"
+        ],
+        "strengths": [
+          "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+          "Structured work history with clear role progression and team deliverables",
+          "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T21:36:37.296Z",
+        "fullAnalysis": {
+          "id": "anl_966fc9af",
+          "fileName": "sample_resume-1.pdf",
+          "candidateName": "divyamurthy",
+          "candidateEmail": "divyamurthy050106@gmail.com",
+          "candidatePhone": "1234567789",
+          "greeting": "Showing live evaluation for sample_resume-1.pdf (61/100)",
+          "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+          "score": 61,
+          "scoreStatus": "Moderate / Fair",
+          "scoreStatusColor": "bg-amber-100 text-amber-700",
+          "scoreIcon": "check_circle",
+          "gaugeStrokeColor": "#d97706",
+          "summaryText": "Solid mid-level profile extracted from sample_resume-1.pdf (4 verified skills). Good foundational alignment with Senior Full-Stack Engineer (React, Node, Cloud), with room to expand cloud & system design depth.",
+          "formatVerified": true,
+          "formatStatusText": "Formatting & ATS schema verified (sample_resume-1.pdf)",
+          "percentileText": "Top 39% of candidates",
+          "matchPercentage": 38,
+          "matchCircleColor": "#ba1a1a",
+          "matchedCount": 2,
+          "missingCount": 6,
+          "totalReqCount": 8,
+          "skillsDetected": [
+            "JavaScript",
+            "TypeScript",
+            "Git",
+            "Machine Learning"
+          ],
+          "missingSkills": [
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "AWS / Cloud"
+          ],
+          "strengths": [
+            "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+            "Structured work history with clear role progression and team deliverables",
+            "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+          ],
+          "education": [
+            {
+              "degree": "B.Tech in Computer Science & Engineering",
+              "institution": "Institute of Engineering & Technology",
+              "year": "2024",
+              "gpa": "8.6 / 10.0"
+            }
+          ],
+          "experience": [
+            {
+              "title": "Software Development Engineer",
+              "company": "Extracted from sample_resume-1.pdf",
+              "duration": "2023 – Present",
+              "impact": "Developed application modules using JavaScript, TypeScript, Git and improved query response times by 25%."
+            }
+          ],
+          "projects": [
+            {
+              "name": "Full-Stack Web Application Portal",
+              "stack": "JavaScript, TypeScript, Git, Machine Learning",
+              "outcome": "Implemented end-to-end features verified during scan of sample_resume-1.pdf."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "Verified Software Engineering & Cloud Architecture Credential",
+              "issuer": "Industry Certification Board",
+              "year": "2024"
+            }
+          ],
+          "showCriticalWarning": false,
+          "remediationTip": "Adding React and Node.js to \"sample_resume-1.pdf\" will boost your Resume Score from 61 to 79.",
+          "actionBtnText": "Compare in Job Matcher"
+        }
+      },
+      {
+        "id": "anl_e689aa0a",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "candidatePhone": "1234567789",
+        "fileName": "divyamurthy_basic_resume.pdf",
+        "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+        "score": 34,
+        "matchPercentage": 18,
+        "skillsDetected": [
+          "HTML5",
+          "CSS3",
+          "Git"
+        ],
+        "missingSkills": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "AWS / Cloud"
+        ],
+        "strengths": [
+          "Parsed 3 foundational skills (HTML5, CSS3, Git) from divyamurthy_basic_resume.pdf",
+          "Clean single-column document layout readable by baseline ATS parsers",
+          "Clear contact header and academic foundation"
+        ],
+        "formatVerified": false,
+        "timestamp": "2026-10-10T21:20:03.324Z",
+        "fullAnalysis": {
+          "id": "anl_e689aa0a",
+          "fileName": "divyamurthy_basic_resume.pdf",
+          "candidateName": "divyamurthy",
+          "candidateEmail": "divyamurthy050106@gmail.com",
+          "candidatePhone": "1234567789",
+          "greeting": "Showing live evaluation for divyamurthy_basic_resume.pdf (34/100)",
+          "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+          "score": 34,
+          "scoreStatus": "Needs Improvement",
+          "scoreStatusColor": "bg-error/15 text-error",
+          "scoreIcon": "error",
+          "gaugeStrokeColor": "#ba1a1a",
+          "summaryText": "Basic or entry-level resume detected (divyamurthy_basic_resume.pdf). Missing core production stack depth, quantified metrics, and key skills required for Senior Full-Stack Engineer (React, Node, Cloud).",
+          "formatVerified": false,
+          "formatStatusText": "Basic structure warning: Sparse sections & low keyword density in divyamurthy_basic_resume.pdf",
+          "percentileText": "Bottom 35% of applicants",
+          "matchPercentage": 18,
+          "matchCircleColor": "#ba1a1a",
+          "matchedCount": 0,
+          "missingCount": 8,
+          "totalReqCount": 8,
+          "skillsDetected": [
+            "HTML5",
+            "CSS3",
+            "Git"
+          ],
+          "missingSkills": [
+            "JavaScript",
+            "TypeScript",
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "AWS / Cloud"
+          ],
+          "strengths": [
+            "Parsed 3 foundational skills (HTML5, CSS3, Git) from divyamurthy_basic_resume.pdf",
+            "Clean single-column document layout readable by baseline ATS parsers",
+            "Clear contact header and academic foundation"
+          ],
+          "education": [
+            {
+              "degree": "B.S. / B.Tech in Information Technology (Entry Level)",
+              "institution": "University / Technical Institute",
+              "year": "2025",
+              "gpa": "3.2 / 4.0"
+            }
+          ],
+          "experience": [
+            {
+              "title": "Junior / Academic Trainee",
+              "company": "Extracted from divyamurthy_basic_resume.pdf",
+              "duration": "2024 (Internship / Coursework)",
+              "impact": "Built basic static web interfaces and assisted with introductory coding tasks; lacks quantified production metrics."
+            }
+          ],
+          "projects": [
+            {
+              "name": "Basic Web / Academic Starter Project",
+              "stack": "HTML5, CSS3, Git",
+              "outcome": "Demonstrates baseline syntax and layout fundamentals; needs backend API and database integration."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "Foundational Programming & Web Development Certificate",
+              "issuer": "Online Technical Academy",
+              "year": "2024"
+            }
+          ],
+          "showCriticalWarning": true,
+          "criticalWarningText": "Low Resume Score (34/100) for \"divyamurthy_basic_resume.pdf\": Your uploaded resume is missing 8 core requirements (JavaScript, TypeScript, React, Node.js) for Senior Full-Stack Engineer (React, Node, Cloud). Add quantified project metrics and backend/cloud skills to pass ATS screening.",
+          "remediationTip": "Adding JavaScript and TypeScript to \"divyamurthy_basic_resume.pdf\" will boost your Resume Score from 34 to 52.",
+          "actionBtnText": "Fix Missing Skills in Job Matcher"
+        }
+      },
+      {
+        "id": "anl_7e9034d8",
+        "candidateName": "Alex Rivera",
+        "candidateEmail": "alex.rivera@gmail.com",
+        "candidatePhone": "+1 6504329876",
+        "fileName": "sample_resume-1.pdf",
+        "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+        "score": 61,
+        "matchPercentage": 38,
+        "skillsDetected": [
+          "JavaScript",
+          "TypeScript",
+          "Git",
+          "Machine Learning"
+        ],
+        "missingSkills": [
+          "React",
+          "Node.js",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "AWS / Cloud"
+        ],
+        "strengths": [
+          "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+          "Structured work history with clear role progression and team deliverables",
+          "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T18:28:51.653Z",
+        "fullAnalysis": {
+          "id": "anl_7e9034d8",
+          "fileName": "sample_resume-1.pdf",
+          "candidateName": "Alex Rivera",
+          "candidateEmail": "alex.rivera@gmail.com",
+          "candidatePhone": "+1 6504329876",
+          "greeting": "Showing live evaluation for sample_resume-1.pdf (61/100)",
+          "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+          "score": 61,
+          "scoreStatus": "Moderate / Fair",
+          "scoreStatusColor": "bg-amber-100 text-amber-700",
+          "scoreIcon": "check_circle",
+          "gaugeStrokeColor": "#d97706",
+          "summaryText": "Solid mid-level profile extracted from sample_resume-1.pdf (4 verified skills). Good foundational alignment with Senior Full-Stack Engineer (React, Node, Cloud), with room to expand cloud & system design depth.",
+          "formatVerified": true,
+          "formatStatusText": "Formatting & ATS schema verified (sample_resume-1.pdf)",
+          "percentileText": "Top 39% of candidates",
+          "matchPercentage": 38,
+          "matchCircleColor": "#ba1a1a",
+          "matchedCount": 2,
+          "missingCount": 6,
+          "totalReqCount": 8,
+          "skillsDetected": [
+            "JavaScript",
+            "TypeScript",
+            "Git",
+            "Machine Learning"
+          ],
+          "missingSkills": [
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "AWS / Cloud"
+          ],
+          "strengths": [
+            "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+            "Structured work history with clear role progression and team deliverables",
+            "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+          ],
+          "education": [
+            {
+              "degree": "B.Tech in Computer Science & Engineering",
+              "institution": "Institute of Engineering & Technology",
+              "year": "2024",
+              "gpa": "8.6 / 10.0"
+            }
+          ],
+          "experience": [
+            {
+              "title": "Software Development Engineer",
+              "company": "Extracted from sample_resume-1.pdf",
+              "duration": "2023 – Present",
+              "impact": "Developed application modules using JavaScript, TypeScript, Git and improved query response times by 25%."
+            }
+          ],
+          "projects": [
+            {
+              "name": "Full-Stack Web Application Portal",
+              "stack": "JavaScript, TypeScript, Git, Machine Learning",
+              "outcome": "Implemented end-to-end features verified during scan of sample_resume-1.pdf."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "Verified Software Engineering & Cloud Architecture Credential",
+              "issuer": "Industry Certification Board",
+              "year": "2024"
+            }
+          ],
+          "showCriticalWarning": false,
+          "remediationTip": "Adding React and Node.js to \"sample_resume-1.pdf\" will boost your Resume Score from 61 to 79.",
+          "actionBtnText": "Compare in Job Matcher"
+        }
+      },
+      {
+        "id": "anl_156251a2",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "candidatePhone": "+91 9876543210",
+        "fileName": "sample_resume-1.pdf",
+        "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+        "score": 61,
+        "matchPercentage": 38,
+        "skillsDetected": [
+          "JavaScript",
+          "TypeScript",
+          "Git",
+          "Machine Learning"
+        ],
+        "missingSkills": [
+          "React",
+          "Node.js",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "AWS / Cloud"
+        ],
+        "strengths": [
+          "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+          "Structured work history with clear role progression and team deliverables",
+          "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T18:18:24.836Z",
+        "fullAnalysis": {
+          "id": "anl_156251a2",
+          "fileName": "sample_resume-1.pdf",
+          "candidateName": "Bintu",
+          "candidateEmail": "bintu@gmail.com",
+          "candidatePhone": "+91 9876543210",
+          "greeting": "Showing live evaluation for sample_resume-1.pdf (61/100)",
+          "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+          "score": 61,
+          "scoreStatus": "Moderate / Fair",
+          "scoreStatusColor": "bg-amber-100 text-amber-700",
+          "scoreIcon": "check_circle",
+          "gaugeStrokeColor": "#d97706",
+          "summaryText": "Solid mid-level profile extracted from sample_resume-1.pdf (4 verified skills). Good foundational alignment with Senior Full-Stack Engineer (React, Node, Cloud), with room to expand cloud & system design depth.",
+          "formatVerified": true,
+          "formatStatusText": "Formatting & ATS schema verified (sample_resume-1.pdf)",
+          "percentileText": "Top 39% of candidates",
+          "matchPercentage": 38,
+          "matchCircleColor": "#ba1a1a",
+          "matchedCount": 2,
+          "missingCount": 6,
+          "totalReqCount": 8,
+          "skillsDetected": [
+            "JavaScript",
+            "TypeScript",
+            "Git",
+            "Machine Learning"
+          ],
+          "missingSkills": [
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "AWS / Cloud"
+          ],
+          "strengths": [
+            "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+            "Structured work history with clear role progression and team deliverables",
+            "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+          ],
+          "education": [
+            {
+              "degree": "B.Tech in Computer Science & Engineering",
+              "institution": "Institute of Engineering & Technology",
+              "year": "2024",
+              "gpa": "8.6 / 10.0"
+            }
+          ],
+          "experience": [
+            {
+              "title": "Software Development Engineer",
+              "company": "Extracted from sample_resume-1.pdf",
+              "duration": "2023 – Present",
+              "impact": "Developed application modules using JavaScript, TypeScript, Git and improved query response times by 25%."
+            }
+          ],
+          "projects": [
+            {
+              "name": "Full-Stack Web Application Portal",
+              "stack": "JavaScript, TypeScript, Git, Machine Learning",
+              "outcome": "Implemented end-to-end features verified during scan of sample_resume-1.pdf."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "Verified Software Engineering & Cloud Architecture Credential",
+              "issuer": "Industry Certification Board",
+              "year": "2024"
+            }
+          ],
+          "showCriticalWarning": false,
+          "remediationTip": "Adding React and Node.js to \"sample_resume-1.pdf\" will boost your Resume Score from 61 to 79.",
+          "actionBtnText": "Compare in Job Matcher"
+        }
+      },
+      {
+        "id": "anl_d6de5fcd",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "candidatePhone": "+91 9876543210",
+        "fileName": "sample_resume-1.pdf",
+        "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+        "score": 61,
+        "matchPercentage": 38,
+        "skillsDetected": [
+          "JavaScript",
+          "TypeScript",
+          "Git",
+          "Machine Learning"
+        ],
+        "missingSkills": [
+          "React",
+          "Node.js",
+          "SQL",
+          "MongoDB",
+          "Docker",
+          "AWS / Cloud"
+        ],
+        "strengths": [
+          "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+          "Structured work history with clear role progression and team deliverables",
+          "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T18:08:50.143Z",
+        "fullAnalysis": {
+          "id": "anl_d6de5fcd",
+          "fileName": "sample_resume-1.pdf",
+          "candidateName": "Bintu",
+          "candidateEmail": "bintu@gmail.com",
+          "candidatePhone": "+91 9876543210",
+          "greeting": "Showing live evaluation for sample_resume-1.pdf (61/100)",
+          "targetRole": "Senior Full-Stack Engineer (React, Node, Cloud)",
+          "score": 61,
+          "scoreStatus": "Moderate / Fair",
+          "scoreStatusColor": "bg-amber-100 text-amber-700",
+          "scoreIcon": "check_circle",
+          "gaugeStrokeColor": "#d97706",
+          "summaryText": "Solid mid-level profile extracted from sample_resume-1.pdf (4 verified skills). Good foundational alignment with Senior Full-Stack Engineer (React, Node, Cloud), with room to expand cloud & system design depth.",
+          "formatVerified": true,
+          "formatStatusText": "Formatting & ATS schema verified (sample_resume-1.pdf)",
+          "percentileText": "Top 39% of candidates",
+          "matchPercentage": 38,
+          "matchCircleColor": "#ba1a1a",
+          "matchedCount": 2,
+          "missingCount": 6,
+          "totalReqCount": 8,
+          "skillsDetected": [
+            "JavaScript",
+            "TypeScript",
+            "Git",
+            "Machine Learning"
+          ],
+          "missingSkills": [
+            "React",
+            "Node.js",
+            "SQL",
+            "MongoDB",
+            "Docker",
+            "AWS / Cloud"
+          ],
+          "strengths": [
+            "Verified 4 core technical competencies (JavaScript, TypeScript, Git, Machine Learning)",
+            "Structured work history with clear role progression and team deliverables",
+            "Matches 2 of 8 target requirements for Senior Full-Stack Engineer (React, Node, Cloud)"
+          ],
+          "education": [
+            {
+              "degree": "B.Tech in Computer Science & Engineering",
+              "institution": "Institute of Engineering & Technology",
+              "year": "2024",
+              "gpa": "8.6 / 10.0"
+            }
+          ],
+          "experience": [
+            {
+              "title": "Software Development Engineer",
+              "company": "Extracted from sample_resume-1.pdf",
+              "duration": "2023 – Present",
+              "impact": "Developed application modules using JavaScript, TypeScript, Git and improved query response times by 25%."
+            }
+          ],
+          "projects": [
+            {
+              "name": "Full-Stack Web Application Portal",
+              "stack": "JavaScript, TypeScript, Git, Machine Learning",
+              "outcome": "Implemented end-to-end features verified during scan of sample_resume-1.pdf."
+            }
+          ],
+          "certifications": [
+            {
+              "name": "Verified Software Engineering & Cloud Architecture Credential",
+              "issuer": "Industry Certification Board",
+              "year": "2024"
+            }
+          ],
+          "showCriticalWarning": false,
+          "remediationTip": "Adding React and Node.js to \"sample_resume-1.pdf\" will boost your Resume Score from 61 to 79.",
+          "actionBtnText": "Compare in Job Matcher"
+        }
+      },
+      {
+        "id": "anl_01",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "candidatePhone": "+91 9876543210",
+        "fileName": "bintu_fullstack_resume.pdf",
+        "targetRole": "Senior Full Stack Engineer",
+        "score": 91,
+        "matchPercentage": 88,
+        "skillsDetected": [
+          "JavaScript",
+          "TypeScript",
+          "React",
+          "Node.js",
+          "MongoDB",
+          "REST API",
+          "Docker",
+          "SQL"
+        ],
+        "missingSkills": [
+          "Kubernetes Cluster Ops"
+        ],
+        "strengths": [
+          "Strong end-to-end production full-stack architecture and REST API integration",
+          "Verified database schema design with MongoDB and SQL",
+          "Quantified performance improvements across web applications"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T17:51:05.433Z"
+      },
+      {
+        "id": "anl_01b",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "candidatePhone": "+91 9876543210",
+        "fileName": "bintu_previous_draft_v1.pdf",
+        "targetRole": "Full Stack Software Engineer",
+        "score": 79,
+        "matchPercentage": 76,
+        "skillsDetected": [
+          "JavaScript",
+          "React",
+          "Node.js",
+          "MongoDB",
+          "SQL",
+          "Git"
+        ],
+        "missingSkills": [
+          "TypeScript",
+          "Docker"
+        ],
+        "strengths": [
+          "Solid full-stack project implementation with React and Node.js",
+          "Verified relational and NoSQL database fundamentals"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T00:06:05.433Z"
+      },
+      {
+        "id": "anl_02",
+        "candidateName": "Elena Rostova",
+        "candidateEmail": "elena.rostova@gmail.com",
+        "candidatePhone": "+1 4158904321",
+        "fileName": "elena_rostova_staff.pdf",
+        "targetRole": "Full Stack Software Engineer",
+        "score": 94,
+        "matchPercentage": 91,
+        "skillsDetected": [
+          "Python",
+          "JavaScript",
+          "React",
+          "Node.js",
+          "MongoDB",
+          "SQL",
+          "Docker",
+          "Machine Learning"
+        ],
+        "missingSkills": [
+          "Kubernetes Cluster Ops"
+        ],
+        "strengths": [
+          "Extensive production full-stack engineering track record",
+          "Quantified business impacts and high-throughput systems design",
+          "Strong programming background with cloud and distributed DBs"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T16:06:05.433Z"
+      },
+      {
+        "id": "anl_03",
+        "candidateName": "Divya Sharma",
+        "candidateEmail": "divya@gmail.com",
+        "candidatePhone": "+91 9845012345",
+        "fileName": "resume_divya_v2.pdf",
+        "targetRole": "Full Stack Software Engineer",
+        "score": 68,
+        "matchPercentage": 57,
+        "skillsDetected": [
+          "Python",
+          "JavaScript",
+          "MongoDB",
+          "HTML",
+          "CSS"
+        ],
+        "missingSkills": [
+          "Node.js",
+          "React",
+          "REST API"
+        ],
+        "strengths": [
+          "Good technical skill coverage in front-end fundamentals",
+          "Clear academic achievements & validated degree in Computer Science",
+          "Clean layout with quantified impact across coursework"
+        ],
+        "formatVerified": true,
+        "timestamp": "2026-10-10T12:06:05.433Z"
+      }
+    ],
+    "activity_logs": [
+      {
+        "id": "act_11ae4e40",
+        "category": "account_auth",
+        "title": "2-Minute Security OTP Generated",
+        "description": "Generated 6-digit verification OTP for bintu@gmail.com. Expires in 2 minutes (120 seconds).",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "OTP: 934508 · Limit: 120s",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-26T17:15:58.888Z"
+      },
+      {
+        "id": "act_ee273356",
+        "category": "account_auth",
+        "title": "Candidate Session Signed In",
+        "description": "Authenticated session for Rithik (rithik@gmail.com)",
+        "candidateName": "Rithik",
+        "candidateEmail": "rithik@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Auth: Dynamic Session Active",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T22:32:28.848Z"
+      },
+      {
+        "id": "act_f88208fe",
+        "category": "account_auth",
+        "title": "Candidate Session Signed In",
+        "description": "Authenticated session for Rithik (rithik@gmail.com)",
+        "candidateName": "Rithik",
+        "candidateEmail": "rithik@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Auth: Dynamic Session Active",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T22:31:52.628Z"
+      },
+      {
+        "id": "act_6e853ebe",
+        "category": "password_change",
+        "title": "Account Password Reset (#1)",
+        "description": "Password reset #1 rotated via PBKDF2-SHA512 for Rithik (rithik@gmail.com); previous password revoked",
+        "candidateName": "Rithik",
+        "candidateEmail": "rithik@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Reset #1 · PBKDF2-SHA512",
+        "status": "UPDATED",
+        "timestamp": "2026-10-10T22:31:41.800Z"
+      },
+      {
+        "id": "act_13f705ce",
+        "category": "account_auth",
+        "title": "Candidate Session Signed In",
+        "description": "Authenticated session for Rithik (rithik@gmail.com)",
+        "candidateName": "Rithik",
+        "candidateEmail": "rithik@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Auth: Dynamic Session Active",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T22:29:23.189Z"
+      },
+      {
+        "id": "act_714136fb",
+        "category": "account_auth",
+        "title": "Candidate Session Signed In",
+        "description": "Authenticated session for Bintu (bintu@gmail.com)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Auth: Dynamic Session Active",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T22:28:58.572Z"
+      },
+      {
+        "id": "act_dfb823cc",
+        "category": "account_auth",
+        "title": "Candidate Session Signed In",
+        "description": "Authenticated session for Kamal (kamal@gmail.com)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Auth: Dynamic Session Active",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T22:27:53.250Z"
+      },
+      {
+        "id": "act_95e78890",
+        "category": "password_change",
+        "title": "Account Password Reset (#1)",
+        "description": "Password reset #1 rotated via PBKDF2-SHA512 for divs (divs123@gmail.com); previous password revoked",
+        "candidateName": "divs",
+        "candidateEmail": "divs123@gmail.com",
+        "contactNumber": "1234567890",
+        "metadata": "Reset #1 · PBKDF2-SHA512",
+        "status": "UPDATED",
+        "timestamp": "2026-10-10T21:55:29.758Z"
+      },
+      {
+        "id": "act_08d31f66",
+        "category": "account_auth",
+        "title": "Candidate Account Registered",
+        "description": "Created or updated account for divs (divs123@gmail.com · 1234567890)",
+        "candidateName": "divs",
+        "candidateEmail": "divs123@gmail.com",
+        "contactNumber": "1234567890",
+        "metadata": "Role: Registered Candidate",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T21:55:03.165Z"
+      },
+      {
+        "id": "act_f8a33e49",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed (#3: divyamurthy_basic_resume.pdf)",
+        "description": "Evaluated \"divyamurthy_basic_resume.pdf\" against Senior Full-Stack Engineer (React, Node, Cloud) — Resume Score: 34/100 (Needs Improvement) · Job Match: 18%",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "Score: 34/100 · 3 Skills",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T21:37:02.544Z"
+      },
+      {
+        "id": "act_5a0a63f1",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded (#3: divyamurthy_basic_resume.pdf)",
+        "description": "Upload #3: Uploaded \"divyamurthy_basic_resume.pdf\" (388.7 KB) as divyamurthy for target role: Senior Full-Stack Engineer (React, Node, Cloud)",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "Upload #3 · File: divyamurthy_basic_resume.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T21:37:01.743Z"
+      },
+      {
+        "id": "act_693a61a4",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed (#2: sample_resume-1.pdf)",
+        "description": "Evaluated \"sample_resume-1.pdf\" against Senior Full-Stack Engineer (React, Node, Cloud) — Resume Score: 61/100 (Moderate / Fair) · Job Match: 38%",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "Score: 61/100 · 4 Skills",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T21:36:37.297Z"
+      },
+      {
+        "id": "act_51088630",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded (#2: sample_resume-1.pdf)",
+        "description": "Upload #2: Uploaded \"sample_resume-1.pdf\" (26.7 KB) as divyamurthy for target role: Senior Full-Stack Engineer (React, Node, Cloud)",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "Upload #2 · File: sample_resume-1.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T21:36:36.496Z"
+      },
+      {
+        "id": "act_361c95b9",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed",
+        "description": "Evaluated divyamurthy_basic_resume.pdf against Senior Full-Stack Engineer (React, Node, Cloud) — Resume Score: 34/100 (Needs Improvement) · Job Match: 18%",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "Score: 34/100 · 3 Skills",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T21:20:03.325Z"
+      },
+      {
+        "id": "act_6f3cbc27",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded",
+        "description": "Uploaded divyamurthy_basic_resume.pdf (388.7 KB) for target role: Senior Full-Stack Engineer (React, Node, Cloud)",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "File: divyamurthy_basic_resume.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T21:20:02.524Z"
+      },
+      {
+        "id": "act_b61764a4",
+        "category": "account_auth",
+        "title": "Candidate Account Registered",
+        "description": "Created or updated account for divyamurthy (divyamurthy050106@gmail.com · 1234567789)",
+        "candidateName": "divyamurthy",
+        "candidateEmail": "divyamurthy050106@gmail.com",
+        "contactNumber": "1234567789",
+        "metadata": "Role: Registered Candidate",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T20:58:01.127Z"
+      },
+      {
+        "id": "act_ac1e7574",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed",
+        "description": "Evaluated sample_resume-1.pdf against Senior Full-Stack Engineer (React, Node, Cloud) — Resume Score: 61/100 (Moderate / Fair) · Job Match: 38%",
+        "candidateName": "Alex Rivera",
+        "candidateEmail": "alex.rivera@gmail.com",
+        "contactNumber": "+1 6504329876",
+        "metadata": "Score: 61/100 · 4 Skills",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T18:28:51.654Z"
+      },
+      {
+        "id": "act_68dbdad6",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded",
+        "description": "Uploaded sample_resume-1.pdf (26.7 KB) for target role: Senior Full-Stack Engineer (React, Node, Cloud)",
+        "candidateName": "Alex Rivera",
+        "candidateEmail": "alex.rivera@gmail.com",
+        "contactNumber": "+1 6504329876",
+        "metadata": "File: sample_resume-1.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T18:28:50.853Z"
+      },
+      {
+        "id": "act_e6065117",
+        "category": "account_auth",
+        "title": "Session Auto-Terminated (30m Inactivity Timeout)",
+        "description": "Automatic security logout triggered after 30 minutes of user inactivity for Divya Sharma (divya@gmail.com)",
+        "candidateName": "Divya Sharma",
+        "candidateEmail": "divya@gmail.com",
+        "contactNumber": "+91 9845012345",
+        "metadata": "Policy: 30m Idle Guard",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T18:19:00.829Z"
+      },
+      {
+        "id": "act_b6067a45",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed",
+        "description": "Evaluated sample_resume-1.pdf against Senior Full-Stack Engineer (React, Node, Cloud) — Resume Score: 61/100 (Moderate / Fair) · Job Match: 38%",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Score: 61/100 · 4 Skills",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T18:18:24.837Z"
+      },
+      {
+        "id": "act_ca52aa5a",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded",
+        "description": "Uploaded sample_resume-1.pdf (26.7 KB) for target role: Senior Full-Stack Engineer (React, Node, Cloud)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "File: sample_resume-1.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T18:18:24.036Z"
+      },
+      {
+        "id": "act_950f637b",
+        "category": "account_auth",
+        "title": "Session Auto-Terminated (30m Inactivity Timeout)",
+        "description": "Automatic security logout triggered after 30 minutes of user inactivity for Bintu (bintu@gmail.com)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Policy: 30m Idle Guard",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T18:17:57.415Z"
+      },
+      {
+        "id": "act_d5b3d2d2",
+        "category": "account_auth",
+        "title": "Session Auto-Terminated (30m Inactivity Timeout)",
+        "description": "Automatic security logout triggered after 30 minutes of user inactivity for Bintu (bintu@gmail.com)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Policy: 30m Idle Guard",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T18:16:52.892Z"
+      },
+      {
+        "id": "act_4b1c7114",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed",
+        "description": "Evaluated sample_resume-1.pdf against Senior Full-Stack Engineer (React, Node, Cloud) — Resume Score: 61/100 (Moderate / Fair) · Job Match: 38%",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Score: 61/100 · 4 Skills",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T18:08:50.143Z"
+      },
+      {
+        "id": "act_99e64c68",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded",
+        "description": "Uploaded sample_resume-1.pdf (26.7 KB) for target role: Senior Full-Stack Engineer (React, Node, Cloud)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "File: sample_resume-1.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T18:08:49.343Z"
+      },
+      {
+        "id": "act_seed_01",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed",
+        "description": "Scored bintu_fullstack_resume.pdf against Senior Full Stack Engineer (Score: 91/100 · 88% Match)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Score: 91/100 · 8 Skills Verified",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T17:52:05.434Z"
+      },
+      {
+        "id": "act_seed_02",
+        "category": "resume_upload",
+        "title": "Resume Document Uploaded",
+        "description": "Uploaded bintu_fullstack_resume.pdf (2.10 MB · PDF/A-1b Validated)",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "File: bintu_fullstack_resume.pdf",
+        "status": "VERIFIED",
+        "timestamp": "2026-10-10T17:51:05.434Z"
+      },
+      {
+        "id": "act_seed_03",
+        "category": "password_change",
+        "title": "Account Password Updated on Website",
+        "description": "Password hash rotated via PBKDF2-SHA512; previous credentials revoked for bintu@gmail.com",
+        "candidateName": "Bintu",
+        "candidateEmail": "bintu@gmail.com",
+        "contactNumber": "+91 9876543210",
+        "metadata": "Hash: PBKDF2-SHA512",
+        "status": "UPDATED",
+        "timestamp": "2026-10-10T17:18:05.434Z"
+      },
+      {
+        "id": "act_seed_04",
+        "category": "analysis_complete",
+        "title": "ATS Resume Analysis Completed",
+        "description": "Scored resume_divya_v2.pdf against Full Stack Software Engineer (Score: 68/100 · 57% Match)",
+        "candidateName": "Divya Sharma",
+        "candidateEmail": "divya@gmail.com",
+        "contactNumber": "+91 9845012345",
+        "metadata": "Score: 68/100 · 5 Skills Verified",
+        "status": "200 OK",
+        "timestamp": "2026-10-10T12:06:05.434Z"
+      }
+    ]
+  }
+}

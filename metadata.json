@@ -1,0 +1,6 @@
+{
+  "name": "ResuMetric AI Resume Analyzer",
+  "description": "Enterprise AI Resume Analyzer, ATS Job Matcher, Dynamic User Session Manager, and 6-Digit Gmail OTP Password Reset Center powered by REST API endpoints.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
