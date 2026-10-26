@@ -21,7 +21,6 @@ import {
   saveSqliteActivityLog,
   getSqliteActivityLogs,
   getSqliteDbDiagnostics,
-  validateResumeContent,
 } from './sqliteDb.js';
 
 dotenv.config();
