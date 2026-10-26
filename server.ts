@@ -21,8 +21,8 @@ import {
   saveSqliteActivityLog,
   getSqliteActivityLogs,
   getSqliteDbDiagnostics,
+  validateResumeContent,
 } from './sqliteDb.js';
-import { validateResumeContent } from './src/utils/resumeValidator.js';
 
 dotenv.config();
 
